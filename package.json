@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+<<<<<<< HEAD
     "start:prod": "node index.js"
+=======
+     "start:prod": "node index.js"
+>>>>>>> a45fd9257d9e52d193cc4aa6596e89cc6d747d77
   },
   "author": "",
   "license": "ISC",
